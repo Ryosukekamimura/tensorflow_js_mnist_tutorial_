@@ -1,4 +1,11 @@
-html,
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  background-color: #111827;
+}
+
 body {
   padding: 0;
   margin: 0;
